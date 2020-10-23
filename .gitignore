@@ -1,0 +1,7 @@
+**/__pycache__
+.venv
+.vscode
+fba
+models
+**/node_modules
+temp
